@@ -5,6 +5,6 @@ In this game player has to bounce successfully over platforms.<br>
 Single or double jump can be made.
 
 <b>Google Play:</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy<br>
-<b>URL</b>: https://softdonkey.github.io/jumpy<br>
+<b>URL</b>: https://fsiamp.github.io/jumpy<br>
 
-![alt tag](https://raw.githubusercontent.com/Softdonkey/jumpy/master/assets/screen.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy/master/assets/screen.png)
