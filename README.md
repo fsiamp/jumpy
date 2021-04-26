@@ -7,4 +7,4 @@ Single or double jump can be made.
 <b>URL:</b> https://softdonkey.github.io/jumpy<br>
 <b>Google Play:</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy<br>
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy/master/assets/screen.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/jumpy/master/assets/screen.png)
