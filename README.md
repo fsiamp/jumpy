@@ -5,6 +5,6 @@ In this game player has to bounce successfully over platforms.<br>
 Single or double jump can be made.
 
 <b>URL:</b> https://fsiamp.github.io/jumpy-bounce<br>
-<b>Google Play:</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy<br>
+<b>Google Play:</b> https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy<br>
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy-2d/master/assets/screen.png)
