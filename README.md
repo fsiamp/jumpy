@@ -4,7 +4,7 @@ EaselJS-based 2D game &nbsp;&nbsp;[<img src="https://www.paypalobjects.com/en_US
 In this game, player has to bounce successfully over platforms.<br>
 Single or double jump can be made.
 
-<b>URL:</b> https://fsiamp.github.io/jumpy<br>
+<b>URL:</b> https://fsiamp.github.io/jumpy-bounce<br>
 <b>Google Play:</b> https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy<br>
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy/master/assets/screen.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy-bounce/master/assets/screen.png)
